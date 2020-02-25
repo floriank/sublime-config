@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Monokai.sublime-color-scheme",
+	"font_face": "Cascadia Code",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Markdown"
+	],
+	"theme": "postap.sublime-theme"
+}
